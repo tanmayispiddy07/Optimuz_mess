@@ -1,0 +1,192 @@
+{
+    "Monday": {
+        "breakfast": [
+            "Idly/Millet Idly",
+            "Karapodi/ Palli Chutney",
+            "Boiled Egg/Banana",
+            "Coffee/ Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "Thotakurapappu",
+            "Alu Fry",
+            "Tamoto chutney",
+            "Rasam",
+            "Curd"
+        ],
+        "snacks": [
+            "Boiled Sanagalu/Guggill",
+            "Tea/ Milk"
+        ],
+        "dinner": [
+            "Rice",
+            "Vankayabattani curry",
+            "Sambaru",
+            "Banana",
+            "Curd"
+        ]
+    },
+    "Tuesday": {
+        "breakfast": [
+            "Onion uthappam",
+            "Putnalu Chutney",
+            "Boiled Egg/Banana",
+            "Coffee/ Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "TomotoPappu",
+            "Dondakaya Fry",
+            "GongureChutney",
+            "Rasam",
+            "Banana",
+            "Curd"
+        ],
+        "snacks": [
+            "Atukulu (chuduva)",
+            "Tea/ Milk"
+        ],
+        "dinner": [
+            "Rice",
+            "Alu Dum fry",
+            "Sambar",
+            "Ravvakesari (sweet)",
+            "Curd"
+        ]
+    },
+    "Wednesday": {
+        "breakfast": [
+            "Vada",
+            "Palli Chutney",
+            "Sambar",
+            "Coffee /Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "Palakurapappu",
+            "Mulakaya TomatoCurry",
+            "Rasam",
+            "Banana",
+            "Curd"
+        ],
+        "snacks": [
+            "Groundnut chikki",
+            "Tea/Milk"
+        ],
+        "dinner": [
+            "Rice/RagiSangati",
+            "Veg Pulav",
+            "Chicken Curry",
+            "CapiscumPanner",
+            "Ryta",
+            "Rasam"
+        ]
+    },
+    "Thursday": {
+        "breakfast": [
+            "Upma/millet Upma",
+            "Boiled Egg/Banana",
+            "Coffee/ Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "SorakayapesaraPappu",
+            "Vankaya chutney",
+            "Goruchukudu Fry",
+            "Rasam",
+            "Curd"
+        ],
+        "snacks": [
+            "Pakoda/ Bajji (Alu/Banana)",
+            "Tea /Milk"
+        ],
+        "dinner": [
+            "Chapathi",
+            "Alukurma",
+            "Curd Rice",
+            "Pickle",
+            "Laddu/sweet bundhi (sweet)"
+        ]
+    },
+    "Friday": {
+        "breakfast": [
+            "Idly",
+            "Coconut Chutney",
+            "Sambar",
+            "Coffee / Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "Chukka/Thota/ PalakuraPappu",
+            "Mixed vegetable curry",
+            "Kandhipacchadi",
+            "Rasam",
+            "Curd"
+        ],
+        "snacks": [
+            "Biscuits",
+            "Tea/ Milk"
+        ],
+        "dinner": [
+            "Rice",
+            "Egg Curry",
+            "Carrot fry",
+            "Roti Chutney",
+            "Banana",
+            "Curd"
+        ]
+    },
+    "Saturday": {
+        "breakfast": [
+            "Poori",
+            "Alukurma",
+            "Coffee /Milk"
+        ],
+        "lunch": [
+            "Rice",
+            "DosakayaPappu",
+            "Beans curry",
+            "Dondakaya chutney",
+            "Rasam",
+            "Curd"
+        ],
+        "snacks": [
+            "Popcorn",
+            "Tea/ Milk"
+        ],
+        "dinner": [
+            "Lemon Rice / Veg. Rice",
+            "Gravy",
+            "Curd Rice",
+            "Banana",
+            "Chakkarapongal / Korrapayasam"
+        ]
+    },
+    "Sunday": {
+        "breakfast": [
+            "Dosa/Ragi Dosa",
+            "Palli Chutney",
+            "Karam Chutney",
+            "Milk/ Coffee"
+        ],
+        "lunch": [
+            "Veg Pulav",
+            "Rice",
+            "Chicken Curry",
+            "Panner Butter Masala",
+            "Ryta",
+            "Rasam"
+        ],
+        "snacks": [
+            "Boiled Groundnut",
+            "Milk/tea"
+        ],
+        "dinner": [
+            "Rice",
+            "Dosakaya Chutney",
+            "Sambaru",
+            "Banana",
+            "Curd"
+        ]
+    }
+}
